@@ -1,0 +1,109 @@
+html { 
+    background: url(images/X-Y\ axis.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 520px 472px;
+  }
+
+
+
+
+
+
+
+.purple-box {
+    position: absolute;
+    background-color: #9b04eaff;
+    width: 69px;
+    height: 69px;
+    left: 760px;
+    top: 643px;
+    display: inline-block;
+    cursor: pointer;
+    
+   
+}
+.green-box {
+    position: absolute;
+    background-color: #42bb52ff;
+    width: 69px;
+    height: 69px;
+    left: 830px;
+    top: 503px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.yellow-box {
+    position: absolute;
+    background-color: #f5e02dff;
+    width: 69px;
+    height: 69px;
+    left: 900px;
+    top: 573px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.orange-box {
+    position: absolute;
+    background-color: #fa9b15ff;
+    width: 69px;
+    height: 69px;
+    left: 900px;
+    top: 433px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.red-box {
+    position: absolute;
+    background-color: #d01e17ff;
+    width: 70px;
+    height: 69px;
+    left: 970px;
+    top: 503px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.black-box {
+    position: absolute;
+    background-color: black;
+    width: 70px;
+    height: 69px;
+    left: 970px;
+    top: 363px;
+    display: inline-block;
+    cursor: pointer;
+   
+}
+
+.white-box {
+    position: absolute;
+    background-color: white;
+    width: 70px;
+    height: 69px;
+    left: 1040px;
+    top: 433px;
+    display: inline-block;
+    cursor: pointer;
+   
+
+}
+
+
+.blue-box {
+    position: absolute;
+    background-color: #0a52efff;
+    width: 70px;
+    height: 70px;
+    left: 1110px;
+    top: 292px;
+    display: inline-block;
+    cursor: pointer;
+   
+
+}

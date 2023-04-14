@@ -1,0 +1,66 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: black;
+   
+
+}
+
+header {
+    background-color: black;
+    height: 120px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+    background-color: black;
+    height: 380px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+
+h1 {
+    color: gray;
+    font-style:normal;
+    font-size:100px;
+}
+
+p {
+
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    text-align:justify;
+    font-size: 20px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+footer{
+    background-color: black;
+    height: 60px;
+    width: 1024px;
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer a{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 147px;
+    padding-right: 140px;
+}
